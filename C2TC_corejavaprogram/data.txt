@@ -1,0 +1,5 @@
+welcome
+c71
+count=50
+dept=cse,It,Ece
+dhurga
