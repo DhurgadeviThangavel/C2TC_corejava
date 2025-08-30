@@ -1,5 +1,5 @@
 //Student entity
-package com.tnsif.dayten;
+package dayten;
 
 public class Student {
 	private int rollNo;

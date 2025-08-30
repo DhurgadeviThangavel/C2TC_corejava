@@ -16,7 +16,7 @@ public class HierarchicalInhDemo {
             System.out.println("Employee Details " + p);
 
         p = new Student("Pankaj", "Pune", "FE", 88);
-        if (p instanceof Student)
+        if(p instanceof Student) {
             System.out.println("Student Details " + p);
     }
 }
